@@ -1,1 +1,1 @@
-my first readme for the second time :)
+Trying out git on my own machine
